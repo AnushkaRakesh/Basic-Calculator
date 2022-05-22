@@ -1,0 +1,38 @@
+body{
+    margin:0;
+
+}
+h2{
+    align-items: center;
+    text-align: center;
+}
+input{
+    font-size:20px;
+    border-radius: 12px;
+    width:242px;
+    height:26px;
+}
+button{
+    width:60px;
+    height: 46px;
+    border-radius: 16px;
+    font-size: 20px;
+}
+.container{
+    
+    text-align: center;
+    
+    display: flex-wrap;
+    
+}
+table{
+    margin: auto;
+
+}
+.tb{
+    display: inline-block;
+    border-radius: 4px;
+    margin-top: 3px;
+background: powderblue;
+padding: 12px;
+}
